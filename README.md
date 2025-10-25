@@ -1,2 +1,2 @@
-# gaming-with-speed
-Open-source racing game made in C++ via raylib
+# Gaming with Speed
+Open-source racing game made in C++ via raylib. **WIP!**
